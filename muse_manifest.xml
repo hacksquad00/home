@@ -1,0 +1,27 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hacksquad.com" resolutions="1x,2x" timestamp="1492640942395">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="281340243" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="thehacksquadlogo.png" crc="3898931292" seo="true" mt="1492639871000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="thehacksquadlogo.jpg" crc="4123284465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u283-6.png" crc="3817336241" ref="index"/>
+    <file name="u283-6_2x.png" crc="3981926087" ref="index"/>
+    <file name="u287-11.png" crc="35981619" ref="index"/>
+    <file name="u287-11_2x.png" crc="150220201" ref="index"/>
+  </folder>
+  <file name="index.html" crc="427477155" seo="true" mt="1492640759110" redirect="true"/>
+</manifest>
